@@ -1,0 +1,3 @@
+https://youtu.be/aRjmufF0V60
+https://github.com/andyjud/django-starter
+https://github.com/andyjud/tenants
